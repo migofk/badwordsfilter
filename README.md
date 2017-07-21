@@ -1,5 +1,5 @@
 # badwordsfilter
-1- info
+1- info<br>
 php bad/swear words filter class. <br>
 free swear words filter to use for anything.<br>
 Language: English.<br>
