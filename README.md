@@ -30,7 +30,7 @@ $post = post::create([<br>
 ]);<br>
 
 // In a view<br>
-<?php<br>
+//<?php <br>
 $text = "fuck you tity bitch I'm the best in what I do";<br>
 $filter2 = new App\Classes\badwordsfilter($text);<br>
 echo $filter2->filter();<br> 
