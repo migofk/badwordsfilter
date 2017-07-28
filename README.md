@@ -4,7 +4,7 @@ php bad/swear words filter class. <br>
 free swear words filter to use for anything.<br>
 Language: English.<br>
 424 swear words.<br>
-it's a php class based on str_ireplace() function.<br>
+it's a php class based on preg_replace() function.<br>
 I got the array from badwords-master,a js filter.<br>
 All the bad words will be replace with **** . you can change it with any thing you like just find the code below<br>
 $this->post= str_ireplace($badwords, '****', $this->post);
